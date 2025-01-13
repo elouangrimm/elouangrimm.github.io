@@ -3,6 +3,8 @@ layout: default
 permalink: /
 ---
 
+<link rel="me" href="https://mas.to/@elouan">Mastodon</link>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-JM3D7NSQ6H"></script>
 <script>
