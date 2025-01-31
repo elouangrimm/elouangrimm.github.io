@@ -20,6 +20,7 @@ nav_exclude:                         # The following paths are excluded from nav
   - pages/blog.html                  # This is temporary, to disable the blog.
   - pages/minimalnewtab.md           # This is temporary, to disable this page.
   - pages/comments.md
+  - pages/playlist.md
 
 ### Author Info ###
 author:
