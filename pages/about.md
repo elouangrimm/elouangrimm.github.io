@@ -23,7 +23,7 @@ Hey, I’m **{{ site.author.name }}** and I love messing around with tech 💻�
 
 I helped Epimetheus Games 🎮 with their first two games, EyeSore 👁️‍🗨️ and Project Prometheus 🔥, and both won the top prize 🏆 at the Oregon Game Project Challenge 🥳. I’ve also been contributing to @MoeBazziGIT’s Tidy Tab Groups project 🧹📂.
 
-I recently moved to Cape Town 🌍🏞️, and I’m fluent in French 🇫🇷 and English 🇬🇧. I love photography 📸 and take pictures with my crappy phone 📱😂, sharing them on Instagram 📷✨.
+I recently moved to Cape Town 🌍🏞️, and I’m fluent in French 🇫🇷 and English 🇬🇧. I love photography 📸 and take pictures with my crappy phone 📱.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
